@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Week4 - suffixTree", "Week4 - suffixTree\Week4 - suffixTree.pyproj", "{E64B0D70-919C-4388-A1E9-782176C9ECCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E64B0D70-919C-4388-A1E9-782176C9ECCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E64B0D70-919C-4388-A1E9-782176C9ECCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {733E5954-78E1-4C7D-946F-BA53BA4FD8E2}
+	EndGlobalSection
+EndGlobal
